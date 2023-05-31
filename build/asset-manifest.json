@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b457b537.css",
+    "main.js": "/static/js/main.6a10ecf6.js",
+    "static/media/2download.jpg": "/static/media/2download.40c4cf83c2cffe51174c.jpg",
+    "static/media/download.jpg": "/static/media/download.2b0925895a1ddc321c49.jpg",
+    "static/media/vision.jpg": "/static/media/vision.4568aab6cda55085c1f6.jpg",
+    "static/media/heroimg.jpg": "/static/media/heroimg.5db27e469d8910ac8f51.jpg",
+    "static/media/oloyin.jpg": "/static/media/oloyin.14ea0481a7fa3b72c2aa.jpg",
+    "static/media/fashionflow.jpg": "/static/media/fashionflow.315be75445368270a4d4.jpg",
+    "static/media/starwell.jpg": "/static/media/starwell.f174b00b860df4ae66ec.jpg",
+    "static/media/react3.webp": "/static/media/react3.1613bfd3ba0dc003433a.webp",
+    "static/media/insure-solutions.jpg": "/static/media/insure-solutions.8b4312d52292b721c1b3.jpg",
+    "static/media/mission.avif": "/static/media/mission.106f4b7cb893a15aae2a.avif",
+    "static/media/bg-pic.avif": "/static/media/bg-pic.c1d7c411d27e129c8898.avif",
+    "static/media/call.avif": "/static/media/call.3187adfd21d5853b9816.avif",
+    "index.html": "/index.html",
+    "main.b457b537.css.map": "/static/css/main.b457b537.css.map",
+    "main.6a10ecf6.js.map": "/static/js/main.6a10ecf6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b457b537.css",
+    "static/js/main.6a10ecf6.js"
+  ]
+}
